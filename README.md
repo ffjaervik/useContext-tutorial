@@ -1,3 +1,6 @@
+# Pre-Tutorial Setup
+1. Clone this directory and run npm install to install the node modules. 
+2. Cd into the react-context tutorial folder and run npm start. You should see a list with a button that doesn't function at the moment.
 
 # useContext tutorial
 
